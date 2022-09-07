@@ -20,3 +20,14 @@ a:visited {
     color: unset;
     text-decoration: none;
 }
+
+/* SalesCard */
+#sales {
+    padding: 40px 10px;
+}
+
+.dsmeta-container {
+    margin: 0 auto;
+    max-width: 900px;
+    width: 100%;
+}
